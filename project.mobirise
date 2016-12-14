@@ -48,27 +48,27 @@
           ],
           "_name": "wowslider",
           "_params": {
-            "customSize": false,
+            "customSize": true,
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "1600x1080",
             "slides": [
               {
                 "src": "@PROJECT_PATH@/assets/images/slide-2-2000x1125-4.png",
-                "active": false,
+                "active": true,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/slide-2-2000x1125-4-1600x1080-81.png",
+                "image": "@PROJECT_PATH@/assets/images/slide-2-2000x1125-4-1600x1080-77.png",
                 "title": "Maevn",
                 "text": "Distribuidores exclusivos de la marca Maevn.",
                 "tooltip": "@PROJECT_PATH@/assets/images/slide-2-2000x1125-4-85x48-11.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/slide-1-2000x1125-91.png",
-                "active": true,
+                "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/slide-1-2000x1125-91-1600x1080-49.png",
+                "image": "@PROJECT_PATH@/assets/images/slide-1-2000x1125-91-1600x1080-12.png",
                 "title": "Med Couture",
                 "text": "Distribuidores exclusivos de la marca Med Couture.",
                 "tooltip": "@PROJECT_PATH@/assets/images/slide-1-2000x1125-91-85x48-60.png"
@@ -86,7 +86,7 @@
             "duration": 2,
             "height": "1080",
             "width": "1600",
-            "responsive": "3",
+            "responsive": "2",
             "showCaptions": true,
             "captionsEffect": "fade",
             "hideControls": false
@@ -822,6 +822,11 @@
             "Extension"
           ],
           "_name": "extHeader16",
+          "_styles": {
+            "H3": {
+              "font-size": "60px"
+            }
+          },
           "_anchor": "extHeader16-9",
           "_params": {
             "parallax": false,
@@ -872,31 +877,26 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "60px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
           "_anchor": "content1-a",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Si tenemos en consideración los múltiples planchados y lavados a los que son sometidos nuestras prendas durante su vida en uso, nuestra ropa puede verse afectada considerablemente en un tiempo sumamente rápido, por ello, vamos a dar ciertas recomendaciones que cuidaran mucho más tu uniforme, así que comencemos.</p><p>Aunque parezca tácito, este es uno de los grandes errores que las personas cometen de manera muy común, perjudicando la vida de tu prenda, si al llegar a tu domicilio, no te quitas tu uniforme, está propenso a que algún alimento o material pueda mancharlo, recuerda que un uniforme es símbolo de una institución o entidad, por ello debes cuidar tu uniforme al llegar a tu domicilio.</p><p><br></p><p><br></p><p>Un Detalle Que Pasa Desapercibidos Delante de Nuestros Ojos.</p><p>Sabias tu que la etiqueta que llevas en la parte posterior de tu prenda es importante para conocer tu uniforme o prenda, esta etiqueta, que en muchas oportunidades la terminamos de cortar por lo incómoda que resulta, contiene información de vital importancia para cuidar tu uniforme, si observas bien puedes apreciar que la etiqueta te indica cómo lavar la prenda, plancharla y si es de algún cuidado especial.</p><p>Esta información te permite comprender la composición química de la prenda, además te indica si debes lavarla en máquina o a mano, el tiempo de lavado, el tiempo de secado, si debe ser expuesta al sol y un sinfín de información que son útiles para cuidar tu uniforme.</p><p>Existen prendas que según sea la composición de la prenda, su cuidado es de alto valor, y es allí donde la etiqueta es primordial para no desgastarla o maltratarla si se emplea alguna técnica incorrecta para el cuidado del uniforme.</p><p>Por eso, ya revisaste la etiqueta que lleva tu uniforme, por favor, no la vayas a cortar, aprende a conocer el cuidado que debe tener tu prenda, sobre todo tu uniforme..</p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          }
+          "text": "<p>Si tenemos en consideración los múltiples planchados y lavados a los que son sometidos nuestras prendas durante su vida en uso, nuestra ropa puede verse afectada considerablemente en un tiempo sumamente rápido, por ello, vamos a dar ciertas recomendaciones que cuidaran mucho más tu uniforme, así que comencemos.</p><p>Aunque parezca tácito, este es uno de los grandes errores que las personas cometen de manera muy común, perjudicando la vida de tu prenda, si al llegar a tu domicilio, no te quitas tu uniforme, está propenso a que algún alimento o material pueda mancharlo, recuerda que un uniforme es símbolo de una institución o entidad, por ello debes cuidar tu uniforme al llegar a tu domicilio.</p><p><br></p><p><br></p><p>Un Detalle Que Pasa Desapercibidos Delante de Nuestros Ojos.</p><p>Sabias tu que la etiqueta que llevas en la parte posterior de tu prenda es importante para conocer tu uniforme o prenda, esta etiqueta, que en muchas oportunidades la terminamos de cortar por lo incómoda que resulta, contiene información de vital importancia para cuidar tu uniforme, si observas bien puedes apreciar que la etiqueta te indica cómo lavar la prenda, plancharla y si es de algún cuidado especial.</p><p>Esta información te permite comprender la composición química de la prenda, además te indica si debes lavarla en máquina o a mano, el tiempo de lavado, el tiempo de secado, si debe ser expuesta al sol y un sinfín de información que son útiles para cuidar tu uniforme.</p><p>Existen prendas que según sea la composición de la prenda, su cuidado es de alto valor, y es allí donde la etiqueta es primordial para no desgastarla o maltratarla si se emplea alguna técnica incorrecta para el cuidado del uniforme.</p><p>Por eso, ya revisaste la etiqueta que lleva tu uniforme, por favor, no la vayas a cortar, aprende a conocer el cuidado que debe tener tu prenda, sobre todo tu uniforme..</p>"
         },
         {
           "_tags": [
