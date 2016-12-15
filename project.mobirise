@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "comocuidarlavidadetuuniforme",
     "versionFirst": "3.6.5",
     "uniqCompNum": 14,
-    "versionPublish": "3.10",
+    "versionPublish": "3.10.2",
     "name": "Quality Uniforms For You",
     "theme": {
       "name": "mobirise3",
@@ -24,11 +24,7 @@
       }
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishType": "github",
-    "ftpLocation": "ftp://qualityuniformspr@wkreative.com@ftp.wkreative.com:21",
-    "publishFtpPath": "",
-    "publishPath": "file:///Users/josejimenez/Desktop/Quality%20Web"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -181,7 +177,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality Uniforms You</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"true\">MARCAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Dickies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Infinity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Code Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Jockey Scrubs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Grey's Anatomy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Cherokee</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-map2-0\" aria-expanded=\"false\">MAPA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#gallery4-0\">VIDEOS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">MARCAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Dickies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Infinity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Code Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Jockey Scrubs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Grey's Anatomy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Cherokee</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-map2-0\" aria-expanded=\"false\">MAPA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#gallery4-0\">VIDEOS</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -297,6 +293,7 @@
           },
           "_anchor": "header2-3",
           "_params": {
+            "imageSize": "52",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
@@ -348,8 +345,8 @@
           "_params": {
             "bgText": "Blog Quality",
             "bgTextStyle": "Montserrat",
-            "bgTextColor": "#efefef",
-            "bgTextSize": 250,
+            "bgTextColor": "#7c706b",
+            "bgTextSize": "250",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
@@ -814,7 +811,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality Uniforms You</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"true\">MARCAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Dickies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Infinity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Code Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Jockey Scrubs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Grey's Anatomy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Cherokee</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-map2-0\" aria-expanded=\"false\">MAPA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#gallery4-0\">VIDEOS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">MARCAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Dickies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Infinity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Code Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Jockey Scrubs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Grey's Anatomy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Cherokee</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-map2-0\" aria-expanded=\"false\">MAPA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#gallery4-0\">VIDEOS</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -831,7 +828,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cmo-cuidar-la-vida-de-tu-uniforme-2000x1125-96.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/gradient-quality-2000x1250-95.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -864,7 +861,7 @@
             }
           },
           "title": "Cómo Cuidar la Vida de Tu Uniforme",
-          "text": "@QualityUniformsForYou",
+          "text": "null",
           "form": {
             "action": "josejimenezmorales@hotmail.com",
             "alerts": {
