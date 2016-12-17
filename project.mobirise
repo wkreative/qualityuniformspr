@@ -827,10 +827,10 @@
           "_anchor": "extHeader16-9",
           "_params": {
             "parallax": false,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/gradient-quality-2000x1250-95.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColor": "#2c5e70",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -861,7 +861,7 @@
             }
           },
           "title": "Cómo Cuidar la Vida de Tu Uniforme",
-          "text": "@QualityUniformsForYou",
+          "text": "Por @QualityUniformsForYou",
           "form": {
             "action": "josejimenezmorales@hotmail.com",
             "alerts": {
