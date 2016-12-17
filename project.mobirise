@@ -1,0 +1,1053 @@
+{
+  "settings": {
+    "currentPage": "comocuidarlavidadetuuniforme",
+    "versionFirst": "3.6.5",
+    "uniqCompNum": 14,
+    "versionPublish": "3.10.2",
+    "name": "Quality Uniforms For You",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#000000",
+        "successColor": "#c0a375",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lato",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_params": {
+            "customSize": true,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1600x1080",
+            "slides": [
+              {
+                "src": "@PROJECT_PATH@/assets/images/slide-2-2000x1125-4.png",
+                "active": true,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/slide-2-2000x1125-4-1600x1080-77.png",
+                "title": "Maevn",
+                "text": "Distribuidores exclusivos de la marca Maevn.",
+                "tooltip": "@PROJECT_PATH@/assets/images/slide-2-2000x1125-4-85x48-11.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/slide-1-2000x1125-91.png",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/slide-1-2000x1125-91-1600x1080-12.png",
+                "title": "Med Couture",
+                "text": "Distribuidores exclusivos de la marca Med Couture.",
+                "tooltip": "@PROJECT_PATH@/assets/images/slide-1-2000x1125-91-85x48-60.png"
+              }
+            ],
+            "theme": "boundary",
+            "bgColor": "#ffffff",
+            "animType": "kenburns",
+            "autoplay": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "fullScreen": true,
+            "showBullets": false,
+            "timeout": 2,
+            "duration": 2,
+            "height": "1080",
+            "width": "1600",
+            "responsive": "2",
+            "showCaptions": true,
+            "captionsEffect": "fade",
+            "hideControls": false
+          },
+          "_anchor": "wowslider-2",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "index-menu-0",
+          "_params": {
+            "bgColor": "#768099",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/quality-logo-332x128-47.png",
+              "height": 128,
+              "alt": "Quality Uniforms for You",
+              "link": "#top",
+              "title": "Quality Uniforms for You",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality Uniforms You</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">MARCAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Dickies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Infinity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Code Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Jockey Scrubs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Grey's Anatomy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Cherokee</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-map2-0\" aria-expanded=\"false\">MAPA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#gallery4-0\">VIDEOS</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Med Couture",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/bvYVGMtMzzQ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-10-05-21-01-18.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Dickies",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/aWb7IejUGk4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-10-05-21-02-39.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Dickies",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/i_df-A8DEr0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-10-05-21-02-10.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Infinity",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/59tSuS40A8c",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-10-05-21-03-21.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Code Happy",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/bxy0a0AFTK0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-10-05-21-06-45.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Jockey Scrubs",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/fUXbxtqEcTg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-10-05-21-07-09.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Grey's Anatomy",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/weudi07J0FE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-10-05-21-07-58.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cherokee",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/veN87GN3l0M",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-10-05-21-09-08.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": true,
+            "bgColor": "#cccccc",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-0",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "header2-3",
+          "_params": {
+            "imageSize": "52",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/20sOsVerj-I",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Contamos con una gran variedad accesorios, zapatos, scrubs y batas médicas en diferentes tamaños y en los colores más “inn\" de la temporada. Tenemos, los últimos modelos de las marcas: Dickies, Cherokee, Code Happy, Meta, Jockey, Greys Anatomy, Infinity, entre otros... Y tenemos la EXCLUSIVIDAD en PR de las línea de Medcoture y Maevn…",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "bgTextP": "ANIMATED TEXT BACKGROUND",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader12",
+          "_anchor": "extHeader12-d",
+          "_params": {
+            "bgText": "Blog Quality",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#7c706b",
+            "bgTextSize": "250",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/cmo-cuidar-la-vida-de-tu-uniforme-1400x787-73.png",
+              "link": "comocuidarlavidadetuuniforme",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Cómo cuidar la vida de tu uniforme.",
+          "text": "Si tenemos en consideración los múltiples planchados y lavados a los que son sometidos nuestras prendas durante su vida en uso, nuestra ropa puede verse afectada considerablemente en un tiempo sumamente rápido, por ello, vamos a dar ciertas recomendaciones que cuidaran mucho más tu uniforme, así que comencemos.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"comocuidarlavidadetuuniforme\">Leer más</a>"
+        },
+        {
+          "_name": "testimonials2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>“Me trataron muy bien y tienen una gran variedad de estilos para escoger.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/fb-womenz-160x155-3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Rosa Alers",
+              "authorBio": "Facebook User"
+            },
+            {
+              "text": "<p>“Tienda de cinco estrellas, los felicito por atencion a los clientes. Eres excelente!”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/fb-man-160x100-87.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Richardr Millien",
+              "authorBio": "Facebook User"
+            },
+            {
+              "text": "<p>“Visité la tienda  y el servicio fue excelente, muy bueno.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/fb-womenz-160x155-4.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Paola Diaz",
+              "authorBio": "Facebook User"
+            }
+          ],
+          "_anchor": "index-testimonials2-0",
+          "_params": {
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "¿Qué tienen que decir nuestros Clientes?",
+          "subtitle": "null"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_name": "social-buttons2",
+          "_anchor": "index-social-buttons2-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/homepage-bg-2000x1500-95.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#3d8eb9"
+          },
+          "text": "SÍGUENOS",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/qualityuniformsforyou/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://www.facebook.com/qualityuniformsforyou/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.facebook.com/qualityuniformsforyou/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.facebook.com/qualityuniformsforyou/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "alias": "social-feed",
+          "_name": "feed",
+          "_anchor": "index-feed-0",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "youtube": "",
+            "facebook": "qualityuniformsforyou",
+            "twitter": "",
+            "google": "",
+            "postToLoad": "3",
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          }
+        },
+        {
+          "_name": "map2",
+          "_anchor": "index-map2-0",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#cccccc",
+            "googleMap": {
+              "address": "Avenida Américo Miranda\n#979 San Juan, Puerto Rico 00921",
+              "placeId": "EjU5NzkgQXYuIEFtZXJpY28gTWlyYW5kYSwgU2FuIEp1YW4sIDAwOTIxLCBQdWVydG8gUmljbw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "index-form1-0",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTÁCTANOS",
+          "subtitle": "Póngase en contacto con nosotros.",
+          "form": {
+            "action": "info@qualityuniformspr.com",
+            "alerts": {
+              "success": "Su mensaje fue enviado con éxito"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Correo Electrónico"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "LI": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "index-contacts3-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/quality-logo-265x101-44.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Quality Uniforms for you, donde la calidad y distinción, son nuestra misión…",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "Tel. 787-767-0690",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "Avenida Américo Miranda<br>#979 San Juan, Puerto Rico 00921<br>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:info@qualityuniformspr.com\" target=\"_blank\">Email: info@qualityuniformspr.com</a>",
+          "title1": "Enlaces",
+          "text5": "<li><a class=\"text-white\" href=\"#top\">INICIO</a></li><li><a class=\"text-white\" href=\"index.html#index-gallery4-0\">MARCAS</a></li><li><a href=\"index.html#index-map2-0\">MAPA</a></li><li><a class=\"text-white\" href=\"index.html#index-form1-0\">CONTACTO</a></li>",
+          "text6": "<strong>Contacto</strong><br><a href=\"mailto:info@qualityuniformspr.com\" target=\"_blank\">Email: info@qualityuniformspr.com</a><br>Tel. 787-767-0690<br><br><br><strong>Dirección</strong><br>Avenida Américo Miranda<br>#979 San Juan, Puerto Rico 00921<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@qualityuniformspr.com",
+            "alerts": {
+              "success": "Su mensaje fue enviado con éxito!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Correo Electrónico*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "index-footer1-0",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Quality Uniforms For You DESIGN by UVAH MEDIA"
+        }
+      ]
+    },
+    "comocuidarlavidadetuuniforme": {
+      "settings": {
+        "title": "Cómo Cuidar la Vida de Tu Uniforme",
+        "meta_descr": "Cómo Cuidar la Vida de Tu Uniforme Quality Uniforms Fot You"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#5e677e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#6d7892!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#768099"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-4",
+          "_params": {
+            "bgColor": "#768099",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/quality-logo-332x128-47.png",
+              "height": 128,
+              "alt": "Quality Uniforms for You",
+              "link": "#top",
+              "title": "Quality Uniforms for You",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality Uniforms You</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">MARCAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Dickies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Infinity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Code Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Jockey Scrubs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Grey's Anatomy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Cherokee</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-map2-0\" aria-expanded=\"false\">MAPA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#gallery4-0\">VIDEOS</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader16",
+          "_styles": {
+            "H3": {
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "extHeader16-9",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/gradient-quality-2000x1250-95.jpg",
+            "bgColor": "#2c5e70",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000",
+            "showImage": true,
+            "showTitle": true,
+            "showText": true,
+            "showForm": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box3.jpg"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "action-grade",
+              "family": "Material-Design-Icons",
+              "link": "",
+              "size": "30",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "title": "Cómo Cuidar la Vida de Tu Uniforme",
+          "text": "Por @QualityUniformsForYou",
+          "form": {
+            "action": "josejimenezmorales@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "content1-a",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Si tenemos en consideración los múltiples planchados y lavados a los que son sometidos nuestras prendas durante su vida en uso, nuestra ropa puede verse afectada considerablemente en un tiempo sumamente rápido, por ello, vamos a dar ciertas recomendaciones que cuidaran mucho más tu uniforme, así que comencemos.</p><p>Aunque parezca tácito, este es uno de los grandes errores que las personas cometen de manera muy común, perjudicando la vida de tu prenda, si al llegar a tu domicilio, no te quitas tu uniforme, está propenso a que algún alimento o material pueda mancharlo, recuerda que un uniforme es símbolo de una institución o entidad, por ello debes cuidar tu uniforme al llegar a tu domicilio.</p><p><br></p><p><br></p><p>Un Detalle Que Pasa Desapercibidos Delante de Nuestros Ojos.</p><p>Sabias tu que la etiqueta que llevas en la parte posterior de tu prenda es importante para conocer tu uniforme o prenda, esta etiqueta, que en muchas oportunidades la terminamos de cortar por lo incómoda que resulta, contiene información de vital importancia para cuidar tu uniforme, si observas bien puedes apreciar que la etiqueta te indica cómo lavar la prenda, plancharla y si es de algún cuidado especial.</p><p>Esta información te permite comprender la composición química de la prenda, además te indica si debes lavarla en máquina o a mano, el tiempo de lavado, el tiempo de secado, si debe ser expuesta al sol y un sinfín de información que son útiles para cuidar tu uniforme.</p><p>Existen prendas que según sea la composición de la prenda, su cuidado es de alto valor, y es allí donde la etiqueta es primordial para no desgastarla o maltratarla si se emplea alguna técnica incorrecta para el cuidado del uniforme.</p><p>Por eso, ya revisaste la etiqueta que lleva tu uniforme, por favor, no la vayas a cortar, aprende a conocer el cuidado que debe tener tu prenda, sobre todo tu uniforme..</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "¡Compártelo!"
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "LI": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/quality-logo-265x101-44.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Quality Uniforms for you, donde la calidad y distinción, son nuestra misión…",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "Tel. 787-767-0690",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "Avenida Américo Miranda<br>#979 San Juan, Puerto Rico 00921<br>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:info@qualityuniformspr.com\" target=\"_blank\">Email: info@qualityuniformspr.com</a>",
+          "title1": "Enlaces",
+          "text5": "<li><a class=\"text-white\" href=\"#top\">INICIO</a></li><li><a class=\"text-white\" href=\"index.html#index-gallery4-0\">MARCAS</a></li><li><a href=\"index.html#index-map2-0\">MAPA</a></li><li><a class=\"text-white\" href=\"index.html#index-form1-0\">CONTACTO</a></li>",
+          "text6": "<strong>Contacto</strong><br><a href=\"mailto:info@qualityuniformspr.com\" target=\"_blank\">Email: info@qualityuniformspr.com</a><br>Tel. 787-767-0690<br><br><br><strong>Dirección</strong><br>Avenida Américo Miranda<br>#979 San Juan, Puerto Rico 00921<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@qualityuniformspr.com",
+            "alerts": {
+              "success": "Su mensaje fue enviado con éxito!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Correo Electrónico*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Quality Uniforms For You DESIGN by UVAH MEDIA"
+        }
+      ]
+    }
+  }
+}
