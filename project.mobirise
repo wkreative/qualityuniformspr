@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.6.5",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "3.10.2",
     "name": "Quality Uniforms For You",
     "theme": {
@@ -38,57 +38,40 @@
       },
       "components": [
         {
-          "alias": "wowslider",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "wowslider",
+          "_name": "header1",
+          "_anchor": "header1-e",
           "_params": {
-            "customSize": true,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1600x1080",
-            "slides": [
-              {
-                "src": "@PROJECT_PATH@/assets/images/slide-2-2000x1125-4.png",
-                "active": true,
-                "link": false,
-                "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/slide-2-2000x1125-4-1600x1080-77.png",
-                "title": "Maevn",
-                "text": "Distribuidores exclusivos de la marca Maevn.",
-                "tooltip": "@PROJECT_PATH@/assets/images/slide-2-2000x1125-4-85x48-11.png"
-              },
-              {
-                "src": "@PROJECT_PATH@/assets/images/slide-1-2000x1125-91.png",
-                "active": false,
-                "link": false,
-                "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/slide-1-2000x1125-91-1600x1080-12.png",
-                "title": "Med Couture",
-                "text": "Distribuidores exclusivos de la marca Med Couture.",
-                "tooltip": "@PROJECT_PATH@/assets/images/slide-1-2000x1125-91-85x48-60.png"
-              }
-            ],
-            "theme": "boundary",
-            "bgColor": "#ffffff",
-            "animType": "kenburns",
-            "autoplay": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "fullScreen": true,
-            "showBullets": false,
-            "timeout": 2,
-            "duration": 2,
-            "height": "1080",
-            "width": "1600",
-            "responsive": "2",
-            "showCaptions": true,
-            "captionsEffect": "fade",
-            "hideControls": false
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slide-1-2000x1125-16.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
-          "_anchor": "wowslider-2",
-          "articleLayout": false
+          "title": "Quality Uniforms For You",
+          "text": "Lider Indiscutible en uniformes para el profesional de la salud.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         },
         {
           "_styles": {
