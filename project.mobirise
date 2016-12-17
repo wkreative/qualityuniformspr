@@ -119,13 +119,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#5e677e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#6d7892!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#768099"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -144,7 +144,7 @@
           "_name": "menu",
           "_anchor": "index-menu-0",
           "_params": {
-            "bgColor": "#cccccc",
+            "bgColor": "#768099",
             "fontSize": 0.75,
             "fontName": {
               "name": "Open Sans",
@@ -753,13 +753,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#5e677e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#6d7892!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#768099"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -778,7 +778,7 @@
           "_name": "menu",
           "_anchor": "menu-4",
           "_params": {
-            "bgColor": "#cccccc",
+            "bgColor": "#768099",
             "fontSize": 0.75,
             "fontName": {
               "name": "Open Sans",
