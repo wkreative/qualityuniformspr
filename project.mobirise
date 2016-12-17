@@ -852,8 +852,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
               "linkInNewWindow": false,
-              "name": "sand-watch2",
-              "family": "iconsMind",
+              "name": "action-grade",
+              "family": "Material-Design-Icons",
               "link": "",
               "size": "30",
               "active": true,
@@ -861,7 +861,7 @@
             }
           },
           "title": "Cómo Cuidar la Vida de Tu Uniforme",
-          "text": "null",
+          "text": "@QualityUniformsForYou",
           "form": {
             "action": "josejimenezmorales@hotmail.com",
             "alerts": {
