@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "uniformesdickies.html",
     "versionFirst": "3.6.5",
-    "uniqCompNum": 15,
+    "uniqCompNum": 22,
     "versionPublish": "3.10.2",
     "name": "Quality Uniforms For You",
     "theme": {
@@ -42,6 +42,13 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700"
+            }
+          },
           "_anchor": "header1-e",
           "_params": {
             "parallax": true,
@@ -64,14 +71,7 @@
           },
           "title": "Quality Uniforms For You",
           "text": "Lider Indiscutible en uniformes para el profesional de la salud.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#gallery4-0\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a> "
         },
         {
           "_styles": {
@@ -160,7 +160,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality Uniforms You</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">MARCAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Dickies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Infinity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Code Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Jockey Scrubs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Grey's Anatomy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Cherokee</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-map2-0\" aria-expanded=\"false\">MAPA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#gallery4-0\">VIDEOS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader12-d\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">MARCAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Dickies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Infinity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Code Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Jockey Scrubs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Grey's Anatomy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Cherokee</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-map2-0\" aria-expanded=\"false\">MAPA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#gallery4-0\">VIDEOS</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -326,10 +326,11 @@
           "_name": "extHeader12",
           "_anchor": "extHeader12-d",
           "_params": {
+            "imageSize": 60,
             "bgText": "Blog Quality",
             "bgTextStyle": "Montserrat",
-            "bgTextColor": "#7c706b",
-            "bgTextSize": "250",
+            "bgTextColor": "#a38f84",
+            "bgTextSize": "100",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
@@ -372,7 +373,70 @@
           },
           "title": "Cómo cuidar la vida de tu uniforme.",
           "text": "Si tenemos en consideración los múltiples planchados y lavados a los que son sometidos nuestras prendas durante su vida en uso, nuestra ropa puede verse afectada considerablemente en un tiempo sumamente rápido, por ello, vamos a dar ciertas recomendaciones que cuidaran mucho más tu uniforme, así que comencemos.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"comocuidarlavidadetuuniforme\">Leer más</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"cuidaruniforme.html\">Leer más</a>"
+        },
+        {
+          "bgTextP": "ANIMATED TEXT BACKGROUND",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader12",
+          "_anchor": "extHeader12-f",
+          "_params": {
+            "imageSize": 60,
+            "bgText": "Blog Quality",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#a38f84",
+            "bgTextSize": "100",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/josejimenez/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extMsg-box1_bg.jpg",
+            "bgColor": "#cce1e4",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/post-quality-2-1400x787-38.png",
+              "link": "uniformesdickies.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Uniformes Dickies",
+          "text": "Muchos han experimentado cómodos y duraderos que son los uniformes Dickies.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"uniformesdickies.html\">Leer más</a>",
+          "_styles": {
+            "P": {
+              "font-size": "25px"
+            }
+          }
         },
         {
           "_name": "testimonials2",
@@ -457,7 +521,7 @@
             "showSubtitle": true
           },
           "title": "¿Qué tienen que decir nuestros Clientes?",
-          "subtitle": "null"
+          "subtitle": "#QualityUniformsForYou"
         },
         {
           "_styles": {
@@ -701,10 +765,12 @@
         }
       ]
     },
-    "comocuidarlavidadetuuniforme": {
+    "cuidaruniforme.html": {
       "settings": {
         "title": "Cómo Cuidar la Vida de Tu Uniforme",
-        "meta_descr": "Cómo Cuidar la Vida de Tu Uniforme Quality Uniforms Fot You"
+        "meta_descr": "Cómo Cuidar la Vida de Tu Uniforme - Quality Uniforms Fot You",
+        "footer_custom": "",
+        "header_custom": "<meta property=\"og:image\" content=\"http://qualityuniformspr.com/assets/images/cmo-cuidar-la-vida-de-tu-uniforme-1400x787-73.png\" />"
       },
       "components": [
         {
@@ -783,7 +849,7 @@
               "src": "@PROJECT_PATH@/assets/images/quality-logo-332x128-47.png",
               "height": 128,
               "alt": "Quality Uniforms for You",
-              "link": "#top",
+              "link": "index.html",
               "title": "Quality Uniforms for You",
               "linkInNewWindow": false
             },
@@ -794,7 +860,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality Uniforms You</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">MARCAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Dickies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Infinity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Code Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Jockey Scrubs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Grey's Anatomy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Cherokee</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-map2-0\" aria-expanded=\"false\">MAPA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#gallery4-0\">VIDEOS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader12-d\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">MARCAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Dickies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Infinity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Code Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Jockey Scrubs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Grey's Anatomy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Cherokee</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-map2-0\" aria-expanded=\"false\">MAPA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#gallery4-0\">VIDEOS</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -809,11 +875,12 @@
           },
           "_anchor": "extHeader16-9",
           "_params": {
+            "imageSize": 60,
             "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/gradient-quality-2000x1250-95.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cmo-cuidar-la-vida-de-tu-uniforme-2000x1125-94.png",
             "bgColor": "#2c5e70",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -876,7 +943,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Si tenemos en consideración los múltiples planchados y lavados a los que son sometidos nuestras prendas durante su vida en uso, nuestra ropa puede verse afectada considerablemente en un tiempo sumamente rápido, por ello, vamos a dar ciertas recomendaciones que cuidaran mucho más tu uniforme, así que comencemos.</p><p>Aunque parezca tácito, este es uno de los grandes errores que las personas cometen de manera muy común, perjudicando la vida de tu prenda, si al llegar a tu domicilio, no te quitas tu uniforme, está propenso a que algún alimento o material pueda mancharlo, recuerda que un uniforme es símbolo de una institución o entidad, por ello debes cuidar tu uniforme al llegar a tu domicilio.</p><p><br></p><p><br></p><p>Un Detalle Que Pasa Desapercibidos Delante de Nuestros Ojos.</p><p>Sabias tu que la etiqueta que llevas en la parte posterior de tu prenda es importante para conocer tu uniforme o prenda, esta etiqueta, que en muchas oportunidades la terminamos de cortar por lo incómoda que resulta, contiene información de vital importancia para cuidar tu uniforme, si observas bien puedes apreciar que la etiqueta te indica cómo lavar la prenda, plancharla y si es de algún cuidado especial.</p><p>Esta información te permite comprender la composición química de la prenda, además te indica si debes lavarla en máquina o a mano, el tiempo de lavado, el tiempo de secado, si debe ser expuesta al sol y un sinfín de información que son útiles para cuidar tu uniforme.</p><p>Existen prendas que según sea la composición de la prenda, su cuidado es de alto valor, y es allí donde la etiqueta es primordial para no desgastarla o maltratarla si se emplea alguna técnica incorrecta para el cuidado del uniforme.</p><p>Por eso, ya revisaste la etiqueta que lleva tu uniforme, por favor, no la vayas a cortar, aprende a conocer el cuidado que debe tener tu prenda, sobre todo tu uniforme..</p>"
+          "text": "<p>Si tenemos en consideración los múltiples planchados y lavados a los que son sometidos nuestras prendas durante su vida en uso, nuestra ropa puede verse afectada considerablemente en un tiempo sumamente rápido, por ello, vamos a dar ciertas recomendaciones que cuidaran mucho más tu uniforme, así que comencemos.</p><p>Aunque parezca tácito, este es uno de los grandes errores que las personas cometen de manera muy común, perjudicando la vida de tu prenda, si al llegar a tu domicilio, no te quitas tu uniforme, está propenso a que algún alimento o material pueda mancharlo, recuerda que un uniforme es símbolo de una institución o entidad, por ello debes cuidar tu uniforme al llegar a tu domicilio.</p><p><br></p><p><br></p><p>Un Detalle Que Pasa Desapercibidos Delante de Nuestros Ojos.</p><p>Sabias tu que la etiqueta que llevas en la parte posterior de tu prenda es importante para conocer tu uniforme o prenda, esta etiqueta, que en muchas oportunidades la terminamos de cortar por lo incómoda que resulta, contiene información de vital importancia para cuidar tu uniforme, si observas bien puedes apreciar que la etiqueta te indica cómo lavar la prenda, plancharla y si es de algún cuidado especial.</p><p><br></p><p>Esta información te permite comprender la composición química de la prenda, además te indica si debes lavarla en máquina o a mano, el tiempo de lavado, el tiempo de secado, si debe ser expuesta al sol y un sinfín de información que son útiles para cuidar tu uniforme.</p><p>Existen prendas que según sea la composición de la prenda, su cuidado es de alto valor, y es allí donde la etiqueta es primordial para no desgastarla o maltratarla si se emplea alguna técnica incorrecta para el cuidado del uniforme.</p><p>Por eso, ya revisaste la etiqueta que lleva tu uniforme, por favor, no la vayas a cortar, aprende a conocer el cuidado que debe tener tu prenda, sobre todo tu uniforme..</p>"
         },
         {
           "_tags": [
@@ -1016,6 +1083,329 @@
             }
           },
           "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Quality Uniforms For You DESIGN by UVAH MEDIA"
+        }
+      ]
+    },
+    "uniformesdickies.html": {
+      "settings": {
+        "title": "Uniformes Dickies",
+        "meta_descr": "Uniformes Dickies Quality Uniforms For You\nMuchos han experimentado cómodos y duraderos que son los uniformes médicos Dickies.",
+        "header_custom": "<meta property=\"og:image\" content=\"http://qualityuniformspr.com/assets/images/http://qualityuniformspr.com/assets/images/post-quality-2-1400x787-38.png\" />"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#5e677e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#6d7892!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#768099"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-g",
+          "_params": {
+            "bgColor": "#768099",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/quality-logo-332x128-47.png",
+              "height": 128,
+              "alt": "Quality Uniforms for You",
+              "link": "index.html",
+              "title": "Quality Uniforms for You",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality Uniforms You</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader12-d\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">MARCAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Dickies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Infinity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Code Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Jockey Scrubs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Grey's Anatomy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-0\">Cherokee</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-map2-0\" aria-expanded=\"false\">MAPA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-form1-0\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#gallery4-0\">VIDEOS</a></li>"
+        },
+        {
+          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader6",
+          "_anchor": "extHeader6-k",
+          "_params": {
+            "imageSize": 90,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/post-qua-2-2000x1250-88.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<br>Uniformes Dickies",
+          "text": "Full-screen intro with image at the bottom. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-info\">DOWNLOAD FOR MAC</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/post-quality-2-png-1920x1080-47.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p><font face=\"Lato, sans-serif\"><span style=\"line-height: 26px;\">&nbsp;Muchos han experimentado cómodos y duraderos que son los uniformes médicos Dickies. Esta línea tiene una gran variedad de categorías, como por ejemplo, los “scrubs” y batas médicas, tanto para mujeres como para hombres. </span></font></p><p><font face=\"Lato, sans-serif\"><span style=\"line-height: 26px;\">Cuentan con una gran variedad de colores y diseños disponibles, para que puedas combinarlos, según tu personalidad. </span></font></p><p><font face=\"Lato, sans-serif\"><span style=\"line-height: 26px;\">¿Aún no haz comprado un modelo de la marca DICKIES? </span></font></p><p><span style=\"line-height: 26px; font-size: 1.07rem;\">Pues aprovecha y visítanos en Quality Uniforms. </span></p><p><span style=\"line-height: 26px; font-size: 1.07rem;\">Estamos ubicados en la Avenida Américo Miranda (Cerca de Centro Médico) 787-767-0690 ¡Te Esperamos!</span><br></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "¡Compártelo!"
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "LI": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/quality-logo-265x101-44.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Quality Uniforms for you, donde la calidad y distinción, son nuestra misión…",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "Tel. 787-767-0690",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "Avenida Américo Miranda<br>#979 San Juan, Puerto Rico 00921<br>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:info@qualityuniformspr.com\" target=\"_blank\">Email: info@qualityuniformspr.com</a>",
+          "title1": "Enlaces",
+          "text5": "<li><a class=\"text-white\" href=\"#top\">INICIO</a></li><li><a class=\"text-white\" href=\"index.html#index-gallery4-0\">MARCAS</a></li><li><a href=\"index.html#index-map2-0\">MAPA</a></li><li><a class=\"text-white\" href=\"index.html#index-form1-0\">CONTACTO</a></li>",
+          "text6": "<strong>Contacto</strong><br><a href=\"mailto:info@qualityuniformspr.com\" target=\"_blank\">Email: info@qualityuniformspr.com</a><br>Tel. 787-767-0690<br><br><br><strong>Dirección</strong><br>Avenida Américo Miranda<br>#979 San Juan, Puerto Rico 00921<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@qualityuniformspr.com",
+            "alerts": {
+              "success": "Su mensaje fue enviado con éxito!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Correo Electrónico*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "footer1-i",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": 2,
